@@ -1,6 +1,13 @@
 1. Customer adding items to cart and checking out:
 
-  The user must be logged in as a Customer. The user may navigate the store "aisles" by clicking on the appropriate link from the drop-down list in the nav bar. Clicking on an item from the aisle will open a page that gives additional information about that item, and prompt the user to enter the quantity of said item to be added to the cart. Clicking on Cancel will close this page. Clicking on the "add to cart" button will display the image, the price and the quantity of the added item in the "Your Cart" page. From the cart page, the user may modify the quantity of each item in their cart, or remove it completely using the buttons in the row of each item. The "Clear Cart" button will remove all items from the cart, and the "Checkout" button begins the checkout process. This process beings by calculating and displaying the total price of the items in the cart, and the user may confirm or cancel their order using the provided buttons. Cancelling leads the user to the cart page, with the items intact in their cart. Checking out first ensures that enough of the desired items exist in the database, prompting the user to modify the quantity of items which surpass that amount. If there are no issues, a popup displays a thank-you message and removes the amount of items purchased from the database.
+The user must be logged in as a Customer. The user may navigate the store "aisles" by clicking on the appropriate link from the drop-down list in the nav bar. Clicking on an 
+item from the aisle will open a page that gives additional information about that item, and prompt the user to enter the quantity of said item to be added to the cart. 
+Clicking on Cancel will close this page. Clicking on the "add to cart" button will display the image, the price and the quantity of the added item in the "Your Cart" page. 
+From the cart page, the user may modify the quantity of each item in their cart, or remove it completely using the buttons in the row of each item. The "Clear Cart" button 
+will remove all items from the cart, and the "Checkout" button begins the checkout process. This process beings by calculating and displaying the total price of the items 
+in the cart, and the user may confirm or cancel their order using the provided buttons. Cancelling leads the user to the cart page, with the items intact in their cart. 
+Checking out first ensures that enough of the desired items exist in the database, prompting the user to modify the quantity of items which surpass that amount. If there 
+are no issues, a popup displays a thank-you message and removes the amount of items purchased from the database.
 
 2.
 
