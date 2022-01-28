@@ -21,7 +21,13 @@ want to sell it at. Afterwards, I want to add a text description of my new item 
 showcase what my product looks like. If there are variations of my product such as different colours and/or sizes, I would like to be able to include them in the same page as
 well. Finally, I would like to have the option to click on an "Edit" button, so that I can change my product listing in the future if ever I want to.
 
-3.
+3. A user creating an account :
+
+The user can only be able to purchase if he is registered on the app and logged in. For that, new users must create an account through a sign-up button The user can only be able 
+to purchase if he is registered on the app and logged in. For that, new users must create an account through a sign-up button that will allow them to register their email address 
+and password of choice. Once the user clicks on sign-up, an email confirmation will be sent to them with a link to confirm their identity and that they are legitimately using their 
+email address. This will prevent bots and fraudulent users from creating fake accounts. Once the user’s account is created and verified, the user is now considered logged in and is 
+able to make purchases on the app.  
 
 4.
 
