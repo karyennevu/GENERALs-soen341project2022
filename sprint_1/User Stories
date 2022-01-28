@@ -13,7 +13,13 @@ are no issues, a popup displays a thank-you message and removes the amount of it
 
 **PLEASE CONFIRM THAT THIS IS THE CORRECT FORMAT**
 
-2.
+2. Seller adding item to their shop:
+
+As a seller, I want to add a new item to my shop so that I can sell it online through the website. I am ready to sell a new merchandise that does not already exist in my online
+store. To do that, I would like to first be able to click on a "Add a Product" button. Then, I want to be able to enter the name of the product as well as the price at which I 
+want to sell it at. Afterwards, I want to add a text description of my new item to explain in details what it does, what is included, etc. as well as images and pictures to 
+showcase what my product looks like. If there are variations of my product such as different colours and/or sizes, I would like to be able to include them in the same page as
+well. Finally, I would like to have the option to click on an "Edit" button, so that I can change my product listing in the future if ever I want to.
 
 3.
 
