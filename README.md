@@ -3,7 +3,7 @@
 ---------------------------
 
 # Objective:
-To develop an online shopping application customers oriented. This service provides an easy online shopping experience with an extensive number of web based options.
+To develop an online customer-oriented shopping application. This service provides an easy online shopping experience with an extensive number of web-based options.
 
 # Description: (IN PROGRESS...)
 Final Delivrable Product Requirements: 
@@ -18,14 +18,14 @@ Final Delivrable Product Requirements:
       4. Other kinds of users, such as delivery/dispatch team, Marketing team…
     - the result should be at least a compelling "middle-fidelity prototype"
 ----------------------------------------------------------------------------------
-Acadamic Requirements: 
+Academic Requirements: 
 
-This project introduce us to software project management skills. Follow the Agile development approach, we will use GitHub as a support project management tool to track progress against the plan, and communicate about the progress.
+This project introduces us to software project management skills. Following the Agile development approach, we will use GitHub as a support project management tool to track progress against the plan, and communicate about the progress.
 
 # Team members:
   FULL NAME / GitHub User Name
 - Nelly Bozorgzad / nellyb4 
-- Ayman Chaoui / TBD
+- Ayman Chaoui / BIGBOS5
 - Amir Cherif / amircherif-ac
 - Maxx Freund / maxxfreund
 - Beshoi Emad Adly Khair / beshoikhair
