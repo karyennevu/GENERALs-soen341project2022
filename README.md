@@ -19,14 +19,14 @@ MISSING PART
     - the result should be at least a compelling "middle-fidelity prototype"
 
 # Team members:
-    NAME / GitHub User Name
-- Nelly Bozorgzad (Pseudo "nellyb4")
-- Ayman Chaoui (Pseudo ?)
-- Amir Cherif (Pseudo "amircherif-ac")
-- Maxx Freund (Pseudo "maxxfreund")
-- Beshoi Emad Adly Khair (Pseudo "beshoikhair")
-- Craig Kogan (Pseudo "DragonGawain")
-- Karyenne Vuong (Pseudo "karyennevu")
+  FULL NAME / GitHub User Name
+- Nelly Bozorgzad / nellyb4 
+- Ayman Chaoui / TBD
+- Amir Cherif / amircherif-ac
+- Maxx Freund / maxxfreund
+- Beshoi Emad Adly Khair / beshoikhair
+- Craig Kogan / DragonGawain
+- Karyenne Vuong / karyennevu
 
 # Used Technology:
 - Java Script
