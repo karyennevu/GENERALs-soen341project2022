@@ -27,8 +27,8 @@ Do you often have discussion or meetings? Did you document your meeting minutes?
 0.5: Finish the tasks before the DDL (Thursday) and 
 create some issues (a few sub userstory of core features) under the milestone of the next sprint
 (you can still commit after the DDL if the changes you do are beyong the requirement of this sprint)
--(0.1~0.2): If some tasks were just finished after the DDL 
--(0.1~0.2): If you don't have issues under the next milestone or they are unclear
+-(0.1 ~ 0.2): If some tasks were just finished after the DDL 
+-(0.1 ~ 0.2): If you don't have issues under the next milestone or they are unclear
 
 ********************************************************************************************************
 
