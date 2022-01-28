@@ -1,3 +1,5 @@
+=> Q: Create high-level user stories for the 3 core features.
+
 1. Customer adding items to cart and checking out:
 
 The user must be logged in as a Customer. The user may navigate the store "aisles" by clicking on the appropriate link from the drop-down list in the nav bar. Clicking on an 
