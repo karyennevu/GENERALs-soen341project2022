@@ -5,7 +5,7 @@
 # Objective:
 To develop an online shopping application customers oriented. This service provides an easy online shopping experience with an extensive number of web based options.
 
-# Description:
+# Description: (IN PROGRESS...)
 Final Delivrable Product Requirements: 
 
     - App PC and Mobile compatible
