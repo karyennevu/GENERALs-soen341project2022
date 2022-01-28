@@ -19,6 +19,7 @@ MISSING PART
     - the result should be at least a compelling "middle-fidelity prototype"
 
 # Team members:
+    NAME / GitHub User Name
 - Nelly Bozorgzad (Pseudo "nellyb4")
 - Ayman Chaoui (Pseudo ?)
 - Amir Cherif (Pseudo "amircherif-ac")
