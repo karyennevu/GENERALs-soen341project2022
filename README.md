@@ -1,9 +1,24 @@
-# soen341project
-SOEN 341 Project
-This is our project for SOEN 341.
+# E-Commerce Application
 
-The README file is supposed to show:
-- the title of the project, 
-- its description, 
-- the members of the team
-- the technology to be used.
+Objective:
+To develop an online shopping application customers oriented. This service provides an easy online shopping experience with an extensive number of web based options.
+
+Description:
+
+Team members:
+- Nelly Bozorgzad (Pseudo "nellyb4")
+- Ayman Chaoui (Pseudo ?)
+- Amir Cherif (Pseudo "amircherif-ac")
+- Maxx Freund (Pseudo "maxxfreund")
+- Beshoi Emad Adly Khair (Pseudo "beshoikhair")
+- Craig Kogan (Pseudo "DragonGawain")
+- Karyenne Vuong (Pseudo "karyennevu")
+
+Used Technology:
+- Java Script
+- HTML5
+- CSS
+- PHP
+- MySQL
+- Facebook Login
+- etc
