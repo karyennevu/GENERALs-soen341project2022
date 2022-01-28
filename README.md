@@ -6,8 +6,8 @@
 To develop an online shopping application customers oriented. This service provides an easy online shopping experience with an extensive number of web based options.
 
 # Description:
-<MISSING PART>
-  <Should Include these requirements>
+MISSING PART
+=> Should Include these requirements:
     - App PC and Mobile compatible
     - Include one Payment option
     - Customers will need to have an email and password to login
