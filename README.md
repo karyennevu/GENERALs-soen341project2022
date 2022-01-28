@@ -32,7 +32,7 @@ This project will help you to get a taste of software project management skills 
 - Craig Kogan / DragonGawain
 - Karyenne Vuong / karyennevu
 
-# Used Technology:
+# Used Technology: (IN PROGRESS...)
 - Java Script
 - HTML5
 - CSS
