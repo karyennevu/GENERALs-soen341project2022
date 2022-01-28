@@ -20,7 +20,7 @@ Final Delivrable Product Requirements:
 ----------------------------------------------------------------------------------
 Acadamic Requirements: 
 
-This project will help you to get a taste of software project management skills first-hand. You will follow the Agile development approach; use supporting project management tool (GitHub) for tracking progress against the plan, and communicate about the progress.
+This project introduce us to software project management skills. Follow the Agile development approach, we will use GitHub as a support project management tool to track progress against the plan, and communicate about the progress.
 
 # Team members:
   FULL NAME / GitHub User Name
