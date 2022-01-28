@@ -1,11 +1,11 @@
 # E-Commerce Application
 
-Objective:
+# Objective:
 To develop an online shopping application customers oriented. This service provides an easy online shopping experience with an extensive number of web based options.
 
-Description:
+# Description:
 
-Team members:
+# Team members:
 - Nelly Bozorgzad (Pseudo "nellyb4")
 - Ayman Chaoui (Pseudo ?)
 - Amir Cherif (Pseudo "amircherif-ac")
@@ -14,7 +14,7 @@ Team members:
 - Craig Kogan (Pseudo "DragonGawain")
 - Karyenne Vuong (Pseudo "karyennevu")
 
-Used Technology:
+# Used Technology:
 - Java Script
 - HTML5
 - CSS
