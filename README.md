@@ -1,4 +1,5 @@
-# E-Commerce Application
+# E-COMMERCE APPLICATION
+---------------------------
 
 # Objective:
 To develop an online shopping application customers oriented. This service provides an easy online shopping experience with an extensive number of web based options.
