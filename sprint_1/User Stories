@@ -9,6 +9,8 @@ in the cart, and the user may confirm or cancel their order using the provided b
 Checking out first ensures that enough of the desired items exist in the database, prompting the user to modify the quantity of items which surpass that amount. If there 
 are no issues, a popup displays a thank-you message and removes the amount of items purchased from the database.
 
+**PLEASE CONFIRM THAT THIS IS THE CORRECT FORMAT**
+
 2.
 
 3.
