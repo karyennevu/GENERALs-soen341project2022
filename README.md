@@ -27,10 +27,10 @@ This project introduces us to software project management skills. Following the 
 - Nelly Bozorgzad / nellyb4 / Back-end Developer & Creative director / Communication
 - Ayman Chaoui / BIGBOS5
 - Amir Cherif / amircherif-ac / Scrum Master / Administration
-- Maxx Freund / maxxfreund / Full-Stack Developper / Planning, Programming, Testing
+- Maxx Freund / maxxfreund / Full-Stack Developer / Planning, Programming, Testing
 - Beshoi Emad Adly Khair / beshoikhair / Front-End Developer & Verifier / Leadership  
-- Craig Kogan / DragonGawain / verifier
-- Karyenne Vuong / karyennevu / Admin of Repository / Initiative
+- Craig Kogan / DragonGawain / Verifier / Communication
+- Karyenne Vuong / karyennevu / Admin of Repository / Full-Stack Developer / Initiative
 
 # Technology:
 - Java Script
