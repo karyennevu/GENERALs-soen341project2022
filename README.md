@@ -27,7 +27,7 @@ This project introduces us to software project management skills. Following the 
 - Nelly Bozorgzad / nellyb4 / Back-end Developer & Creative director / Communication
 - Ayman Chaoui / BIGBOS5
 - Amir Cherif / amircherif-ac / Scrum Master / Administration
-- Maxx Freund / maxxfreund
+- Maxx Freund / maxxfreund / Full-Stack Developper / Planning, Programming, Testing
 - Beshoi Emad Adly Khair / beshoikhair / Front-End Developer & Verifier / Leadership  
 - Craig Kogan / DragonGawain / verifier
 - Karyenne Vuong / karyennevu / Admin of Repository / Initiative
@@ -35,8 +35,7 @@ This project introduces us to software project management skills. Following the 
 # Technology:
 - Java Script
 - HTML5
-- CSS
+- CSS + Bootstrap
 - PHP
-- MySQL
-- Facebook Login
-- Bootstrap
+- MySQL (alternatively XML)
+- Facebook Login (alternatively email login)
