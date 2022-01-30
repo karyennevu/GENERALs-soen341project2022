@@ -15,7 +15,8 @@ This App provied diffrent access for multiple user types:
   1. Customer – create an account/register as user, login, browse items, add items to cart, purchase or do payment
   2. Seller – register, login, post items in the application for purchase
   3. Admin – Handling all profiles and also can view details of sales
-  4. Other kinds of users, such as delivery/dispatch team, Marketing team…
+  4. Researchers – View the statistics of the purchases to help in improving the offered products on the website.
+  5. Other kinds of users, such as delivery/dispatch team, Marketing team…
 The final result should be at least a compelling "middle-fidelity prototype".
 
 - Academic Requirements: 
