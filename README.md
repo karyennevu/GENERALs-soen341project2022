@@ -5,28 +5,27 @@
 # Objective:
 To develop an online customer-oriented shopping application. This service provides an easy online shopping experience with an extensive number of web-based options.
 
-# Description: (IN PROGRESS...)
-Final Delivrable Product Requirements: 
+# Description:
 
-    - App PC and Mobile compatible
-    - Include one Payment option
-    - Customers will need to have an email and password to login
-    - Include the following are the categories of users:
-      1. Customer – create an account/register as user, login, browse items, add items to cart, purchase or do payment
-      2. Seller – register, login, post items in the application for purchase
-      3. Admin – Handling all profiles and also can view details of sales
-      4. Other kinds of users, such as delivery/dispatch team, Marketing team…
-    - the result should be at least a compelling "middle-fidelity prototype"
-----------------------------------------------------------------------------------
-Academic Requirements: 
+- Product Requirements: 
+This App is PC and Mobile compatible. 
+It include one Payment option. 
+Customers will need to have an email and password to login. 
+This App provied diffrent access for multiple user types:
+1. Customer – create an account/register as user, login, browse items, add items to cart, purchase or do payment
+2. Seller – register, login, post items in the application for purchase
+3. Admin – Handling all profiles and also can view details of sales
+4. Other kinds of users, such as delivery/dispatch team, Marketing team…
+The final result should be at least a compelling "middle-fidelity prototype".
 
+- Academic Requirements: 
 This project introduces us to software project management skills. Following the Agile development approach, we will use GitHub as a support project management tool to track progress against the plan, and communicate about the progress.
 
 # Team members:
   FULL NAME / GitHub User Name / role / strengths
 - Nelly Bozorgzad / nellyb4 / Back-end Developer & Creative director / Communication
 - Ayman Chaoui / BIGBOS5
-- Amir Cherif / amircherif-ac
+- Amir Cherif / amircherif-ac / Scrum Master / Administration
 - Maxx Freund / maxxfreund
 - Beshoi Emad Adly Khair / beshoikhair / Front-End Developer & Verifier / Leadership  
 - Craig Kogan / DragonGawain / verifier
@@ -39,4 +38,4 @@ This project introduces us to software project management skills. Following the 
 - PHP
 - MySQL
 - Facebook Login
-- etc
+- Bootstrap
