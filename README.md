@@ -23,12 +23,12 @@ Academic Requirements:
 This project introduces us to software project management skills. Following the Agile development approach, we will use GitHub as a support project management tool to track progress against the plan, and communicate about the progress.
 
 # Team members:
-  FULL NAME / GitHub User Name / role
+  FULL NAME / GitHub User Name / role / strengths
 - Nelly Bozorgzad / nellyb4 
 - Ayman Chaoui / BIGBOS5
 - Amir Cherif / amircherif-ac
 - Maxx Freund / maxxfreund
-- Beshoi Emad Adly Khair / beshoikhair
+- Beshoi Emad Adly Khair / beshoikhair / Front-End Developer & Verifier / Leadership  
 - Craig Kogan / DragonGawain / verifier
 - Karyenne Vuong / karyennevu
 
