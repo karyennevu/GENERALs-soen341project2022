@@ -30,7 +30,7 @@ This project introduces us to software project management skills. Following the 
 - Maxx Freund / maxxfreund
 - Beshoi Emad Adly Khair / beshoikhair / Front-End Developer & Verifier / Leadership  
 - Craig Kogan / DragonGawain / verifier
-- Karyenne Vuong / karyennevu
+- Karyenne Vuong / karyennevu / Admin of Repository / Initiative
 
 # Technology:
 - Java Script
