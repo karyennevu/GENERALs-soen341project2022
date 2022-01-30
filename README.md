@@ -29,7 +29,7 @@ This project introduces us to software project management skills. Following the 
 - Amir Cherif / amircherif-ac
 - Maxx Freund / maxxfreund
 - Beshoi Emad Adly Khair / beshoikhair
-- Craig Kogan / DragonGawain / verifyier
+- Craig Kogan / DragonGawain / verifier
 - Karyenne Vuong / karyennevu
 
 # Used Technology: (IN PROGRESS...)
