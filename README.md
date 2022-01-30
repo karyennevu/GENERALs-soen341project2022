@@ -24,7 +24,7 @@ This project introduces us to software project management skills. Following the 
 
 # Team members:
   FULL NAME / GitHub User Name / role / strengths
-- Nelly Bozorgzad / nellyb4 
+- Nelly Bozorgzad / nellyb4 / Back-end Developer & Creative director / Communication
 - Ayman Chaoui / BIGBOS5
 - Amir Cherif / amircherif-ac
 - Maxx Freund / maxxfreund
