@@ -12,10 +12,11 @@ Final Delivrable Product Requirements:
     - Include one Payment option
     - Customers will need to have an email and password to login
     - Include the following are the categories of users:
-      1. Customer – create an account/register as user, login, browse items, add items to cart, purchase or do payment
-      2. Seller – register, login, post items in the application for purchase
+      1. Customer – Create an account/register as user, login, browse items, add items to cart, purchase or do payment
+      2. Seller – Register, login, post items in the application for purchase
       3. Admin – Handling all profiles and also can view details of sales
-      4. Other kinds of users, such as delivery/dispatch team, Marketing team…
+      4. Researchers – View the statistics of the purchases to help in improving the offered products on the website.
+      5. Other kinds of users, such as delivery/dispatch team, Marketing team…
     - the result should be at least a compelling "middle-fidelity prototype"
 ----------------------------------------------------------------------------------
 Academic Requirements: 
