@@ -25,7 +25,7 @@ This project introduces us to software project management skills. Following the 
 # Team members:
   FULL NAME / GitHub User Name / role / strengths
 - Nelly Bozorgzad / nellyb4 / Back-end Developer & Creative director / Communication
-- Ayman Chaoui / BIGBOS5
+- Ayman Chaoui / BIGBOS5 / Quality Control / Communication, Planning, Design
 - Amir Cherif / amircherif-ac / Scrum Master / Administration
 - Maxx Freund / maxxfreund / Full-Stack Developer / Planning, Programming, Testing
 - Beshoi Emad Adly Khair / beshoikhair / Front-End Developer & Verifier / Leadership  
