@@ -1,0 +1,8 @@
+Scenario: Customer edits their home address.
+
+“Given that I am a customer of the website
+And I want to change my home address on my profile,
+When I open "My Account" page,
+And I click on the "My Addresses" button
+And I click on the "Edit" button
+Then I should be able to replace my current shipping address to my new home address."
