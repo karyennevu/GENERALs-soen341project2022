@@ -1,0 +1,8 @@
+Scenario: Customer searches for a product using the search bar
+“Given that I am a customer of the website
+And I want to find a specific product
+When I open a sotre page
+And I click on the search bar
+And enter a item
+And click on the search icon
+Then I should see the item that I searched for"
