@@ -38,4 +38,6 @@ This project introduces us to software project management skills. Following the 
 - CSS + Bootstrap
 - PHP
 - MySQL (alternatively XML)
-- Facebook Login (alternatively email login)
+- HostPapa (website hosting service)
+- Wordpress
+- WooCommerce
