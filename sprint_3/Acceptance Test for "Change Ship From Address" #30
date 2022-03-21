@@ -1,0 +1,8 @@
+Scenario: Seller edits their ship from/warehouse address.
+
+“Given that I am a seller of the website
+And I want to change my ship from/warehouse address on my profile,
+When I open "My Account" page,
+And I click on the "Addresses" button
+And I click on the "Edit" button for my ship from/warehouse address
+Then I should be able to replace my current warehouse address to my new warehouse address."
