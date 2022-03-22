@@ -1,17 +1,12 @@
-Scenario: Customer determines the quantity of the product to be purchased. (Success Case)
-"Given that I am a customer of the website
-And I want to determine the quantity of a product to be purchased
-When I open the product page
-And I press on "-" button
-Then I should see the product's quantity decreased by one 
-Or I press on "+" button
-Then I should see the product's quantity increased by one."
+Scenario: Seller post ad. 
+"Given that I am a seller on the website
+I want to be able to add an image for the ad and link it to an available product.
+When I open the section to post an ad
+Using the upload button to upload the image
+Then select an available product to link it to the ad.
+Finally, Select preview.
+- Success Case:
+When I click on the ad, I'll be directed to the product page.
 
-
-Scenario: Customer determines the quantity of the product to be purchased. (Failure Case)
-"Given that I am a customer of the website
-And I want to determine the quantity of a product to be purchased
-When I open the product page
-And I press on "-" button
-And The current quantity is 1
-Then I should see the product's quantity at 1 not decreasing any more". 
+- Failure Case:
+When I click on the ad, noting happen or get directed to the wrong product.
