@@ -1,0 +1,12 @@
+As a customer, I want to be able to ban a displayed ad.
+
+When ad is displayed
+right click on the ad
+select ban ad
+select reason from the drop down menu
+
+- Success Case:
+The banned add will never be displayed again 
+
+- Failure Case:
+The banned add will be displayed again.
