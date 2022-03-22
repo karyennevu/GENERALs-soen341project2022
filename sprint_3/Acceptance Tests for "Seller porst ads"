@@ -1,0 +1,17 @@
+Scenario: Customer determines the quantity of the product to be purchased. (Success Case)
+"Given that I am a customer of the website
+And I want to determine the quantity of a product to be purchased
+When I open the product page
+And I press on "-" button
+Then I should see the product's quantity decreased by one 
+Or I press on "+" button
+Then I should see the product's quantity increased by one."
+
+
+Scenario: Customer determines the quantity of the product to be purchased. (Failure Case)
+"Given that I am a customer of the website
+And I want to determine the quantity of a product to be purchased
+When I open the product page
+And I press on "-" button
+And The current quantity is 1
+Then I should see the product's quantity at 1 not decreasing any more". 
