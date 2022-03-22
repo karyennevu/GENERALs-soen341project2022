@@ -1,4 +1,4 @@
-Scenario: Seller edit ad. 
+1Scenario: Seller edit ad. 
 "Given that I am a seller on the website
 I want to be able to edit the image for the ad.
 When I open the section to post an ad
