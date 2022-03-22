@@ -1,0 +1,22 @@
+Scenario: Change Username/Email/Password as a customer. (Success Case)
+
+“Given that I am a customer of the website
+And I want to change my Username/Email/Password,
+When I open "Account details" page,
+And I replace my display name with a new one,
+And I replace my email address with a new one,
+And I type in my current password, a new password and I confirm my new password,
+Then the system would display a message saying that my changes have been saved successfully."
+
+
+
+
+Scenario: Change Email as a customer. (Failure Case #1)
+
+“Given that I am a customer of the website
+And I want to change my Username/Email/Password,
+When I open "Account details" page,
+And I replace my display name with a new one,
+And I replace my email address with a new one,
+And the new email is already associated with another account,
+Then the system would display a message saying that my changes cannot be made, because the new email is already used."
