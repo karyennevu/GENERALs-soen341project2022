@@ -1,0 +1,20 @@
+Scenario: Finding customer's email address. (Success Case)
+
+“Given that I am a seller of the website,
+And I want to find a customer's email address,
+When I open the "Orders" page,
+And I click on the "Order details" of a specific order,
+And I look at the customer's information,
+Then I should be able to find the customer's email to contact them."
+
+
+
+
+Scenario: Finding customer's email address. (Failure Case)
+
+“Given that I am a seller of the website,
+And I want to find a customer's email address,
+When I open the "Orders" page,
+And I search for a specific order using the order confirmation number,
+And I enter the wrong confirmation number,
+Then the page would display that there was no order with that confirmation number found."
