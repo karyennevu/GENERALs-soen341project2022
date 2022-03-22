@@ -1,4 +1,4 @@
-Scenario: Seller edits their ship from/warehouse address.
+Scenario: Seller edits their ship from/warehouse address. (Success Case)
 
 “Given that I am a seller of the website
 And I want to change my ship from/warehouse address on my profile,
@@ -6,3 +6,16 @@ When I open "My Account" page,
 And I click on the "Addresses" button
 And I click on the "Edit" button for my ship from/warehouse address
 Then I should be able to replace my current warehouse address to my new warehouse address."
+
+
+
+
+Scenario: Seller edits their ship from/warehouse address. (Failure Case)
+
+“Given that I am a seller of the website
+And I want to change my ship from/warehouse address on my profile,
+When I open "My Account" page,
+And I click on the "Addresses" button
+And I click on the "Edit" button for my ship from/warehouse address
+If I forget to type in the Town/City in the address and leave it blank,
+Then the system should give me a warning message telling me that I can't leave the box empty."
