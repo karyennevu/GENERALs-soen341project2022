@@ -19,4 +19,4 @@ When I open the users list page,
 And I look for and find the specified user,
 And I click on the delete button to remove the account, as per requested by the user,
 And I click on the cancel button when asked if I really do want to delete this user account,
-Then the system will not delete the user account."
+Then the system will not delete the user account and the user account will remain in the list."
