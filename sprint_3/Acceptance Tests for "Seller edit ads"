@@ -1,0 +1,12 @@
+Scenario: Seller edit ad. 
+"Given that I am a seller on the website
+I want to be able to edit the image for the ad.
+When I open the section to post an ad
+Select edit existing ads
+Using the upload button to upload new image
+Select preview.
+- Success Case:
+The image displayed match the new one
+
+- Failure Case:
+The image displayed did not change
