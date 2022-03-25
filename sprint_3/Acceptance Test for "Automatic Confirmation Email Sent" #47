@@ -1,4 +1,5 @@
 Scenario: Admin wants an automatic confirmation email to be sent to the customer and the seller after each purchase. (Success Case)
+
 "Given that I am an admin of the website
 And I want an automatic confirmation email to be sent to the customer and the seller after each purchase
 When the customer adds a product to his cart
@@ -8,6 +9,7 @@ Then both the customer and the seller should receive a confirmation email."
 
 
 Scenario: Admin wants an automatic confirmation email to be sent to the customer and the seller after each purchase. (Failure Case)
+
 "Given that I am an admin of the website
 And I want an automatic confirmation email to be sent to the customer and the seller after each purchase
 When the customer adds a product to his cart
