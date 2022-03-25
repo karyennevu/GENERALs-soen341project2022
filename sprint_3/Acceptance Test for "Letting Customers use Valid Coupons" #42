@@ -1,4 +1,5 @@
 Seller wants the customer to be able to add valid coupons (Success Case)
+
 “Given that I am a seller using the website
 And I want the valid coupons used by the customer to be applied
 When the customer opens his cart
@@ -9,6 +10,7 @@ Then he should see a discount applied on his cart"
 
 
 Seller wants the customer to be able to add valid coupons (Failure Case)
+
 “Given that I am a seller using the website
 And I want the valid coupons used by the customer to be applied
 When the customer opens his cart
