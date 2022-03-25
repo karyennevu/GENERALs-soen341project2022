@@ -1,4 +1,5 @@
 Scenario: Customer removes individual products from his cart directly. (Success Case)
+
 "Given that I am a customer of the website
 And I want to remove individual products from my cart directly
 When I open my cart
@@ -8,6 +9,7 @@ Then I should see this item removed from my cart.
 
 
 Scenario: Customer removes individual products from his cart directly. (Failure Case)
+
 "Given that I am a customer of the website
 And I want to remove individual products from my cart directly
 When I open my cart
