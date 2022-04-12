@@ -1,9 +1,0 @@
-Scenario: Customer directed to product. 
-"Given that I am a customer on the website
-As a customer, I want to be directed to the product page when I click on the ad.
-
-- Success Case:
-When I click on the ad, I'll be directed to the product page.
-
-- Failure Case:
-When I click on the ad, noting happen or get directed to the wrong product.
