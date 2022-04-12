@@ -1,8 +1,0 @@
-Scenario: Customer adds a product to the Wish list.
-“Given that I am a customer of the website
-And I want to add a product to my Wish list
-When I open the product page
-And I press on "Add to wish list" button
-And I go to my wish list
-Then I should see the product on my wish list"
-
