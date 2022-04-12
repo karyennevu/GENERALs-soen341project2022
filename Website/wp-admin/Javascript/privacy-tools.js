@@ -298,3 +298,4 @@ jQuery( document ).ready( function( $ ) {
 		}
 	});
 });
+
