@@ -41,3 +41,4 @@ This project introduces us to software project management skills. Following the 
 - HostPapa (website hosting service)
 - Wordpress
 - WooCommerce
+- TestProject
