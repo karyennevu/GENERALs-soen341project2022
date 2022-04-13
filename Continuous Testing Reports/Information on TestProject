@@ -1,0 +1,8 @@
+Our continuous testing, despite starting this process late in our sprints, was accomplished with the help of an online tool known as TestProject.
+
+This is a free online tool that can aid in generating tests for web applications (and other softwares) by recording the process of one test, and using that test instance with multiple other inputs.
+
+TestProject is capable of generating the code, pseudocode and reports associated to these tests.
+These allow us to verify in a condensed report, the totality of inputs for a certain test.
+
+It took some time and effort for our team to get used to using this software, considering the effort to think of as many combinations of inputs for a test (for good quality test code).
